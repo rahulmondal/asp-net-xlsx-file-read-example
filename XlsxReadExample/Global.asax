@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="XlsxReadExample.MvcApplication" Language="C#" %>
